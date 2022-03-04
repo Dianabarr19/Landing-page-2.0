@@ -1,0 +1,18 @@
+ .btn-main{
+  color: white;
+  background-color: #FF7777;
+  text-align: center;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  display: inline-block;
+  margin-top: 20px;
+ }
+
+ .btn-main:hover {
+  background-color: #FF9292;
+  color: white;
+}
+
+/* #4CA1A3 */
